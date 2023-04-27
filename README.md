@@ -1,11 +1,14 @@
 # Analysis on Global Trade Volume and Macroeconomic Indicators
 
-This is a Jupyter Notebook + Python data analysis term project done for ENGG1003 at the Chinese University of Hong Kong (CUHK). This repository contains zero teaching materials to comply with university rules. All materials present here are all made by me save the data which is publicly available on the internet (`Project.xlsx`).
+This is a Jupyter Notebook + Python data analysis term project done for ENGG1003 at the Chinese University of Hong Kong (CUHK). This repository contains zero teaching materials to comply with university rules. All materials present here are all made by me save the data which is publicly available on the internet (`data.xlsx`).
 
 ## To view the notebook
-View this [HTML export](./export.html).
+**View this [HTML export](https://htmlpreview.github.io/?https://github.com/iBlueDust/ENGG1003-Data-Analysis-Project/blob/master/export.html).**
 
 Or, clone the repository and run the Jupyter Notebook.
+```bash
+git clone https://github.com/iBlueDust/ENGG1003-Data-Analysis-Project.git
+```
 
 ## License
 ```
